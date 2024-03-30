@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey You!👋 Yes You there 👋
+### I am Winga Isaac Ronney Mc'Onyango :bowtie:
 <!--
 **Rowi-1/Rowi-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### - 🔭 I’m currently an Undergrad Medical Student
+###- 🌱 I’m currently learning Software Engineering @PowerLearnAcademyKe.
+###- 👯 I’m looking to collaborate on Medicine & Technology Projects 
+###- 💬 Ask me about anything Medical and Technology!Don't be Limited!
+###- 📫 How to reach me: on https://twitter.com/rowione1 or email: ronnywinga@gmail.com
+###- ⚡ Fun fact: Did you know? If the human DNA were written in code, it would fill over 200 volumes of an encyclopedia! 🧬💻 Embracing technology allows us to decode the mysteries of our genetic makeup and unlock groundbreaking advancements in personalized medicine. 🚀🔬
