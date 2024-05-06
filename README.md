@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### - 🔭 I’m currently an Undergrad Medical Student
 ### - 🌱 I’m currently learning Software Engineering @PowerLearnAcademyKe.
 ### - 👯 I’m looking to collaborate on Medicine & Technology Projects 
 ### - 💬 Ask me about anything Medical and Technology!Don't be Limited!
 ### - 📫 How to reach me: on https://twitter.com/rowione1 or email: ronnywinga@gmail.com
-### - ⚡ Fun fact: Did you know? If the human DNA were written in code, it would fill over 200 volumes of an encyclopedia! 🧬💻 Embracing technology allows us to decode the mysteries of our genetic makeup and unlock groundbreaking advancements in personalized medicine. 🚀🔬
+### - ⚡ Fun fact: Did you know? If the human DNA were written in code, it would fill over 200 volumes of an encyclopedia! 
+### - 🧬💻 Embracing technology allows us to decode the mysteries of our genetic makeup and unlock groundbreaking advancements in personalized medicine. 🚀🔬
+-->
